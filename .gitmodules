@@ -1,3 +1,4 @@
 [submodule "innerLib3"]
 	path = lib3
 	url = https://github.com/Didifred/yagso_test_repo_3.git
+	branch = develop/YAGSO
